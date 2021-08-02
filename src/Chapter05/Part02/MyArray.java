@@ -1,4 +1,4 @@
-package Chapter05.Part01;
+package Chapter05.Part02;
 
 public class MyArray {
 

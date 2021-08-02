@@ -1,4 +1,4 @@
-package Chapter05.Part02;
+package Chapter05.Part03;
 
 public class MyLinkedList {
     private MyListNode head;
